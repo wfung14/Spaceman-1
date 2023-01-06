@@ -2,9 +2,7 @@ body{
     background-image: url("https://c4.wallpaperflare.com/wallpaper/866/136/982/space-moon-earth-planet-wallpaper-preview.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-    height:fit-content;
-    width:fit-content;
+    background-size: 175%;
 }
 
 h1{
