@@ -1,9 +1,9 @@
 # Spaceman
 Spaceman is a guessing game played with the objective of guessing the correct letters to spell out the mystery word, before the wrong guesses add up to result in the user losing.
 
-![](ss1)
-![](ss2)
-![](ss3)
+![](ss1.png)
+![](ss2.png)
+![](ss3.png)
 
 ## Technology Used
 The following technology was used in order to create Spaceman:
