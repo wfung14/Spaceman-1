@@ -1,18 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spaceman</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="index.css" />
-    <script src="index.js"></script>
-</head>
-<body>
-    <h1>Spaceman</h1>
-    <p>Use the letters of the alphabet to guess the word.</p>
+    <script defer src="index.js"></script>
+    <title>Spaceman</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1>Spaceman</h1>
+      <h3>Use the letters below to guess the word.</h3>
+      <div class="letter-div"></div>
+      <p>Click the "hint" button if you get stuck.</p>
+      <div class="hint-div hidden">
+        <p>Hint:-</p>
+        <p class="hint-txt">Sample Hint for test</p>
+      </div>
+      <div class="word-div"></div>
+      <h3>Lives left: <span class="lives">5</span></h3>
+      <div class="row hint-div">
+        <button class="hint-btn">Hint</button>
+        <button class="reset-btn">Restart</button>
+      </div>
     </div>
-        <button type="button">Play!</button>
-        <button type="button">New Game</button>
-</body>
+    <div class="notif hidden">
+      <h2>Game Over!</h2>
+      <h3 class="notif-content">You won!</h3>
+      <h4>Correct Word: <span class="notif-span"></span></h4>
+      <button class="notif-btn">Play again</button>
+    </div>
+  </body>
 </html>

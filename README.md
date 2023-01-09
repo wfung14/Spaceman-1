@@ -13,7 +13,6 @@ The following technology was used in order to create Spaceman:
 To play this game live, you can click this [link](https://wfung14.github.io/Spaceman-1/)
 
 Instructions:
-- Click on the "Play!" button.
 - Choose a letter for the corresponding blank spaces until the word is guessed or all lives are lost.
 
 ## Next Steps

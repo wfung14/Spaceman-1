@@ -9,7 +9,6 @@ Spaceman Game
 ## MVP
 - As a user, I want to see my correct letter guesses.
 - As a user, I want to see my incorrect letter guesses.
-- As a user, I want to be which letters I've already guessed.
 - As a user, I want to see how many incorrect guesses I have left before I lose.
 - As a user, I want to be notified when I have won.
 - As a user, I want to be notified when I have lost.
