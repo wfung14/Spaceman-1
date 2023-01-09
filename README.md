@@ -10,7 +10,7 @@ The following technology was used in order to create Spaceman:
 - JavaScript
 
 ## Getting Started
-To play this game live, you can click this (link)
+To play this game live, you can click this [link](https://wfung14.github.io/Spaceman-1/)
 
 Instructions:
 - Click on the "Play!" button.
